@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7990e18298e5f8f28b0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LAB4_bryan",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LAB4_bryan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LAB4_bryan-Debug-92ffa8004b57e98a08b0.json",
+					"name" : "LAB4_bryan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LAB4_bryan_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LAB4_bryan_autogen-Debug-3d111a8c72e5110ca672.json",
+					"name" : "LAB4_bryan_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LAB4_bryan_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LAB4_bryan_autogen_timestamp_deps-Debug-4c45704a6d84dc33a40d.json",
+					"name" : "LAB4_bryan_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/QT_ejercicios/LAB4_bryan/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug",
+		"source" : "E:/QT_ejercicios/LAB4_bryan"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
